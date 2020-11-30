@@ -2,3 +2,7 @@
 *.iml
 out
 *.class
+
+# Added by cargo
+
+/target
