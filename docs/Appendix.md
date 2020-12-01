@@ -9,20 +9,20 @@ Keywords in Maple, for now only have strict application, i.e. they can only be u
 
 ```
  Lexer:
-    KW_TREE:    tree    (class declaration)
-    KW_BRANCH:  branch  (method declaration)
-    KW_GROUND:  ground  (public method/class)
-    KW_FINAL:   final   (constant declaration)
-    KW_VAR:     var     (variable declaration)
-    KW_LOOP:    loop    (loop initialiser)
-    KW_IF:      if      (if keyword)
-    KW_ELSE:    else    (else keyword)
-    KW_REF:     ref     (pass by reference)
+    KwTree:    tree    (class declaration)
+    KwBranch:  branch  (method declaration)
+    KwGround:  ground  (public method/class)
+    KwFinal:   final   (constant declaration)
+    KwVar:     var     (variable declaration)
+    KwLoop:    loop    (loop initialiser)
+    KwIf:      if      (if keyword)
+    KwElse:    else    (else keyword)
+    KwRef:     ref     (pass by reference)
 ```
 
 ## Identifiers
 
-An identifier is a nonempty ASCII string of the form:
+An identifier is any nonempty ASCII strings of the form:
 
 Either:
 * The first character is a letter.

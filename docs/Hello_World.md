@@ -33,3 +33,9 @@ If there were parameters, they would go inside the parenthesis'.
 A thing to note, the function body is wrapped in braces `{}`. Maple requires
 these around all function bodies.
 
+```
+print("Hello, World");
+```
+Here, we make a call to the function `print`. The method parameters are specified using
+`()` parenthesis and the statement ends with a `;` semicolon which denotes the end of a
+line.
