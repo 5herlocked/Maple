@@ -11,7 +11,7 @@ how they work in Maple. There is a lot of overlap between the cores mainstream
  Maple has a set of keywords that are reserved for use by the language only.
  You cannot use these words as names of variables or functions. Most of them have
  special meanings, and you'll be using them to do various tasks in your Maple programs.
- You can find a list of them in the [Appendix](Appendix.md).
+ You can find a list of them in the [Appendix](SpecDoc.md).
  
  # Variables and Mutability
  Variables in Maple are mutable by default. However, once they're declared, their type
