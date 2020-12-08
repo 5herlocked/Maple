@@ -38,6 +38,3 @@ x = 6; // standard reassignment statement
 x: string = "Seven"; // mutating type
 ```
 Although possible, it is mostly advised to minimise mutable type variables.
-
-
-## Difference between Variables and Constants
